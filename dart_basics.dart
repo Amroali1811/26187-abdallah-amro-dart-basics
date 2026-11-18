@@ -102,3 +102,4 @@ void main() {
   }
   print('Total fees: $total RWF');
 }
+
