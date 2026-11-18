@@ -94,7 +94,9 @@ void main() {
   while (i <= d + 3) {
     int amount = i * 4000 + t * 100;
     int fee = momoFee(amount);
-    total += fee;
+    if (fee != -1) {
+      total += fee;
+    }
     print('Receipt $i | $amount RWF | fee $fee RWF | to $masked');
     i++;
   }
