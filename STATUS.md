@@ -8,10 +8,12 @@
 - D1, D2: answers and code written
 - E: find and fix written
 - F: momo_sim.dart written   
-
-## In progress
 - G: debugging log (pasting my real error messages)
 - Re-running every file and checking outputs against answers.pdf
+- Git setup on my laptop, so this check-in is late
+
+## In progress
+- None
 
 ## Stuck on
-- Git setup on my laptop, so this check-in is late
+- None
