@@ -7,7 +7,7 @@
 - C5: drawTriangle written
 - D1, D2: answers and code written
 - E: find and fix written
-- F: momo_sim.dart written   ghghg
+- F: momo_sim.dart written   
 
 ## In progress
 - G: debugging log (pasting my real error messages)
